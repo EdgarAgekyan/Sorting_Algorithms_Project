@@ -1,6 +1,6 @@
 This program works with four different types of sorting algorithms, the Quick Sort, Heap Sort, Shell Sort, and Batcher Sort algorithms. To run this program, first compile by running the Makefile, which can be done by typing "make all" into the terminal. Then run the created executable with -H. "./sorting -H" This will print out a menu that shows how a user can interact with the program. <br/>
 
-Files to be included in directory “asgn3”:<br/>
+Files:<br/>
 batcher.c - batcher sort implementation<br/>
 batcher.h - header file<br/>
 shell.c - shell sort implementation<br/>
